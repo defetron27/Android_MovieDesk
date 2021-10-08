@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24004b</color>
+    <color name="colorPrimaryDark">#210049</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="tabMedium">#2B2B2B</color>
+    <color name="tabDark">#000000</color>
+    <color name="tabTransparent">#10ffffff</color>
+
+    <color name="tab_border">#ffffff</color>
+    <color name="tab_background">#ffffff</color>
+
+    <color name="search_view">#f4230069</color>
+</resources>
